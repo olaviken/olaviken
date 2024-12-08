@@ -2,9 +2,9 @@
 I'm a versatile software developer with history in economics and accounting. 
 
 ## About me in x sentences
-Love problemsolving, and challenges.
-I'm learning about Microsoft Certified: Azure AI Engineer Associate.
-I prefer programming in C#, proficient in Python and Java.
+- Love problemsolving, and challenges.
+- I'm learning about Microsoft Certified: Azure AI Engineer Associate.
+- I prefer programming in C#, proficient in Python and Java.
 
 
 ## 
