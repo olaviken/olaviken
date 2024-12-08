@@ -8,8 +8,9 @@ I'm a versatile software developer with history in economics and accounting.
 - Find my profile at linkedin: [Ola Viken](https://www.linkedin.com/in/ola-viken/)
 
 
-## 
-
+## My finished projects
+- [Webcrawler and translator](https://github.com/olaviken/WebCrawlerAndTranslator) This goes through a list of websites and translate the text on those sites.
+- 
 
 
 <!--
