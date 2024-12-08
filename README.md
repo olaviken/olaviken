@@ -1,7 +1,7 @@
 # Hi there 
 I'm a versatile software developer with history in economics and accounting. 
 
-## About me in x sentences
+## About me in 4 sentences
 - Love problemsolving, and challenges.
 - I'm learning about Microsoft Certified: Azure AI Engineer Associate.
 - I prefer programming in C#, proficient in Python and Java.
