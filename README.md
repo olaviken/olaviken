@@ -1,4 +1,14 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/7b939cf1-822d-4a26-939e-70559a5b8086)
+# Hi there 
+
+I'm a versatile software developer with history in economics and accounting. 
+
+## About me in x sentences
+Love problemsolving, and challenges.
+I'm learning about Microsoft Certified: Azure AI Engineer Associate.
+I prefer programming in C#, proficient in Python and Java.
+
+
 
 <!--
 **olaviken/olaviken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
