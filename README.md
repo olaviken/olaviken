@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/7b939cf1-822d-4a26-939e-70559a5b8086)
-# Hi there 
+![image](https://github.com/user-attachments/assets/7b939cf1-822d-4a26-939e-70559a5b8086) # Hi there 
+
 
 I'm a versatile software developer with history in economics and accounting. 
 
