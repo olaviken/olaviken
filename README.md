@@ -10,7 +10,7 @@ I'm a versatile software developer with history in economics and accounting.
 
 ## My finished projects
 - [Webcrawler and translator](https://github.com/olaviken/WebCrawlerAndTranslator) This goes through a list of websites and translate the text on those sites.
-- 
+- [Artemis Chronos](https://github.com/olaviken/ArtemisChronos) This project is an art generator, which creates and image based on a historical event on given date and random art styles. It uses OpenAI API.
 
 
 <!--
