@@ -11,7 +11,6 @@ I'm a versatile software developer with history in economics and accounting.
 This is my personal project repository. Here i will link to different Github projects that i have completed. Each of these project will have a detailed description where i will describe different aspects with the project. These will be as following:
 - Short description and goal of the project.
 - How the project works.
-- Graphic user interface
 - Technical aspects. This will include dependencies and project classes. It will also include other technical aspects worth mentioning for specific projects.
 - Last other uses for the project or part of the project. This will a list for what other use cases the project can have or parts of the project can have.
 
