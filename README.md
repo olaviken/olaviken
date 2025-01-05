@@ -7,7 +7,7 @@ I'm a versatile software developer with history in economics and accounting.
 - I program mostly in C#, also proficient in Python and Java.
 - Find my profile at linkedin: [Ola Viken](https://www.linkedin.com/in/ola-viken/)
 
-##About this repository
+## About this repository
 This is my personal project repository. Here i will link to different Github projects that i have completed. Each of these project will have a detailed description where i will describe different aspects with the project. These will be as following:
 - Short description and goal of the project.
 - How the project works.
