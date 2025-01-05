@@ -16,7 +16,7 @@ This is my personal project repository. Here i will link to different Github pro
 
 ## My finished projects
 - [Webcrawler and translator](https://github.com/olaviken/WebCrawlerAndTranslator) This goes through a list of websites and translate the text on those sites.
-- [Artemis Chronos](https://github.com/olaviken/ArtemisChronos) This project is an art generator, which creates and image based on a historical event on given date and random art styles. It uses OpenAI API.
+- [Artemis Chronos](https://github.com/olaviken/ArtemisChronos) This project is an art generator, which creates an image based on a historical event on given date, and random art styles. It uses OpenAI API.
 
 
 <!--
