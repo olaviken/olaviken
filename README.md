@@ -8,11 +8,11 @@ I'm a versatile software developer with history in economics and accounting.
 - Find my profile at linkedin: [Ola Viken](https://www.linkedin.com/in/ola-viken/)
 
 ## About this repository
-This is my personal project repository. Here i will link to different Github projects that i have completed. Each of these project will have a detailed description where i will describe different aspects with the project. These will be as following:
+This is my personal project repository. Here i will link to different Github projects that i have completed. Each of these project will have a detailed description where I will describe different aspects with the project. These will be as following:
 - Short description and goal of the project.
 - How the project works.
 - Technical aspects. This will include dependencies and project classes. It will also include other technical aspects worth mentioning for specific projects.
-- Last other uses for the project or part of the project. This will a list for what other use cases the project can have or parts of the project can have.
+- Other uses for the project or part of the project. This will a list for what other use cases the project can have or parts of the project can have.
 
 ## My finished projects
 - [Webcrawler and translator](https://github.com/olaviken/WebCrawlerAndTranslator) This goes through a list of websites and translate the text on those sites.
