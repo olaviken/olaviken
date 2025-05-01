@@ -14,6 +14,9 @@ This is my personal project repository. Here i will link to different Github pro
 - Technical aspects. This will include dependencies and project classes. It will also include other technical aspects worth mentioning for specific projects.
 - Other uses for the project or part of the project. This will a list for what other use cases the project can have or parts of the project can have.
 
+## Unfinished projects
+- 
+
 ## My finished projects
 - [Webcrawler and translator](https://github.com/olaviken/WebCrawlerAndTranslator) This goes through a list of websites and translate the text on those sites.
 - [Artemis Chronos](https://github.com/olaviken/ArtemisChronos) This project is an art generator, which creates an image based on a historical event on given date, and random art styles. It uses OpenAI API.
