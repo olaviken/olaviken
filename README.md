@@ -14,7 +14,7 @@ This is my personal project repository. Here i will link to different Github pro
 - Other uses for the project or part of the project. This will a list for what other use cases the project can have or parts of the project can have.
 
 ## Unfinished projects
-- 
+- [Areal og Utstyr](https://github.com/olaviken/Database) - This is an unfinished prototype for a inventory and infrastructure system. It uses MYSQL to store data, with a logic part made from C#
 
 ## My finished projects
 - [Webcrawler and translator](https://github.com/olaviken/WebCrawlerAndTranslator) This goes through a list of websites and translate the text on those sites.
