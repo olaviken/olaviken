@@ -1,5 +1,5 @@
 # Hi there 
-I'm a versatile software developer with history in economics and accounting. 
+I'm a versatile software developer with background in economics and accounting. 
 
 ## About me in 3 sentences
 - Love problemsolving, and challenges.
