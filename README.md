@@ -22,7 +22,7 @@ This is my personal project repository. Here i will link to different Github pro
 - [Birdrecognizer](https://github.com/olaviken/Birdrecognizer) This project is a experimental project using ML.Net. It uses ML.Net Computer vision and Image classification to recognize what kind of bird is shown on the input image. Then the result is shown and respective wikipedia pages are shown.
 
 ## Ongoing projects
-- [Timeplanleggin](https://github.com/olaviken/Timeplanlegging) This project is a learning project for blazor .NET. The aim for this project is to create a prototype planning platform for educational sector where individual and institutes can plan educational resources.
+- [Timeplanlegging](https://github.com/olaviken/Timeplanlegging) This project is a learning project for blazor .NET. The aim for this project is to create a prototype planning platform for educational sector where individual and institutes can plan educational resources.
 
 
 <!--
