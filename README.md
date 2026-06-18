@@ -16,13 +16,13 @@ Kontakt: LinkedIn: [Ola Viken](https://www.linkedin.com/in/ola-viken/)
 ## 🛠 Utvalgte Prosjekter
 
 ### 🤖 AI & Maskinlæring
-*   **[Artemis Chronos]([https://github.com/olaviken/artemis-chronos])** – AI-generert kunst basert på historiske hendelser via OpenAI API.
-*   **[Birdrecognizer](https://github.com/olaviken/birdrecognizer)** – Bildegjenkjenning av fuglearter utviklet med ML.NET.
+*   **[Artemis Chronos](https://github.com/olaviken/artemis-chronos)** – AI-generert kunst basert på historiske hendelser via OpenAI API.
+*   **[Birdrecognizer](https://github.com/olaviken/Birdrecognizer)** – Bildegjenkjenning av fuglearter utviklet med ML.NET.
 
 ### 💻 Systemutvikling & Verktøy
-*   **[Webcrawler & Translator](https://github.com/olaviken/webcrawler)** – Automatisert oversettelse av nettsider bygd i C#.
-*   **[Timeplanlegging](https://github.com/olaviken/timeplanlegging)** – Prototype for ressursplanlegging i utdanningssektoren (Blazor .NET).
-*   **[Areal og Utstyr](https://github.com/olaviken/areal-utstyr)** – Inventarsystem med C# og MySQL-database.
+*   **[Webcrawler & Translator](https://github.com/olaviken/WebCrawlerAndTranslator)** – Automatisert oversettelse av nettsider bygd i C#.
+*   **[Timeplanlegging](https://github.com/olaviken/Timeplanlegging)** – Prototype for ressursplanlegging i utdanningssektoren (Blazor .NET).
+*   **[Areal og Utstyr](https://github.com/olaviken/Database)** – Inventarsystem med C# og MySQL-database.
 
 ---
 
