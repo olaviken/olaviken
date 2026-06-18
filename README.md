@@ -2,8 +2,8 @@
 Jeg kombinerer en bachelor i informatikk fra NTNU med over 10 års erfaring som regnskapsfører for å bygge tekniske løsninger som løser reelle forretningsbehov.
 Min spesialitet er å bygge bro mellom kompleks finanslogikk og moderne programvare.
 
-**Tech-stack:** Hovedsakelig .NET/C#, men også erfaren i Python, HTML, CSS, Javascript, Java og SQL.
-**Sertifisering:** [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/olaviken/credentials/1f59e62ea482b68e?ref=https%3A%2F%2Fwww.linkedin.com%2F).
+-**Tech-stack:** Hovedsakelig .NET/C#, men også erfaren i Python, HTML, CSS, Javascript, Java og SQL.
+-**Sertifisering:** [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/olaviken/credentials/1f59e62ea482b68e?ref=https%3A%2F%2Fwww.linkedin.com%2F).
 
 
 Fokus: Problemløsing, integrasjoner, og praktisk bruk av AI (Azure AI-sertifisert).
