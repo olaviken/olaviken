@@ -16,7 +16,7 @@ Kontakt: LinkedIn: [Ola Viken](https://www.linkedin.com/in/ola-viken/)
 ## 🛠 Utvalgte Prosjekter
 
 ### 🤖 AI & Maskinlæring
-*   **[Artemis Chronos](https://github.com/olaviken/artemis-chronos)** – AI-generert kunst basert på historiske hendelser via OpenAI API.
+*   **[Artemis Chronos]([https://github.com/olaviken/artemis-chronos])** – AI-generert kunst basert på historiske hendelser via OpenAI API.
 *   **[Birdrecognizer](https://github.com/olaviken/birdrecognizer)** – Bildegjenkjenning av fuglearter utviklet med ML.NET.
 
 ### 💻 Systemutvikling & Verktøy
