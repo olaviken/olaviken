@@ -1,29 +1,30 @@
-# Hi there 
-I'm a versatile software developer with background in economics and accounting. 
+# Ola Viken | Fullstack-utvikler med domenekunnskap innen økonomi
+Jeg kombinerer en bachelor i informatikk fra NTNU med over 10 års erfaring som regnskapsfører for å bygge tekniske løsninger som løser reelle forretningsbehov.
+Min spesialitet er å bygge bro mellom kompleks finanslogikk og moderne programvare.
 
-## About me in 3 sentences
-- Love problemsolving, and challenges.
-- I program mostly in C#, also proficient in Python and Java.
-- Find my profile at linkedin: [Ola Viken](https://www.linkedin.com/in/ola-viken/)
+**Tech-stack:** Hovedsakelig .NET/C#, men også erfaren i Python, HTML, CSS, Javascript, Java og SQL.
+**Sertifisering:** [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/olaviken/credentials/1f59e62ea482b68e?ref=https%3A%2F%2Fwww.linkedin.com%2F).
 
-## About this repository
-This is my personal project repository. Here i will link to different Github projects that i have completed. Each of these project will have a detailed description where I will describe different aspects with the project. These will be as following:
-- Short description and goal of the project.
-- How the project works.
-- Technical aspects. This will include dependencies and project classes. It will also include other technical aspects worth mentioning for specific projects.
-- Other uses for the project or part of the project. This will a list for what other use cases the project can have or parts of the project can have.
 
-## Unfinished projects
-- [Areal og Utstyr](https://github.com/olaviken/Database) - This is an unfinished prototype for a inventory and infrastructure system. It uses MYSQL to store data, with a logic part made from C#
+Fokus: Problemløsing, integrasjoner, og praktisk bruk av AI (Azure AI-sertifisert).
 
-## My finished projects
-- [Webcrawler and translator](https://github.com/olaviken/WebCrawlerAndTranslator) This goes through a list of websites and translate the text on those sites.
-- [Artemis Chronos](https://github.com/olaviken/ArtemisChronos) This project is an art generator, which creates an image based on a historical event on given date, and random art styles. It uses OpenAI API.
-- [Birdrecognizer](https://github.com/olaviken/Birdrecognizer) This project is a experimental project using ML.Net. It uses ML.Net Computer vision and Image classification to recognize what kind of bird is shown on the input image. Then the result is shown and respective wikipedia pages are shown.
+Kontakt: LinkedIn: [Ola Viken](https://www.linkedin.com/in/ola-viken/)
 
-## Ongoing projects
-- [Timeplanlegging](https://github.com/olaviken/Timeplanlegging) This project is a learning project for blazor .NET. The aim for this project is to create a prototype planning platform for educational sector where individual and institutes can plan educational resources.
 
+---
+
+## 🛠 Utvalgte Prosjekter
+
+### 🤖 AI & Maskinlæring
+*   **[Artemis Chronos](https://github.com/olaviken/artemis-chronos)** – AI-generert kunst basert på historiske hendelser via OpenAI API.
+*   **[Birdrecognizer](https://github.com/olaviken/birdrecognizer)** – Bildegjenkjenning av fuglearter utviklet med ML.NET.
+
+### 💻 Systemutvikling & Verktøy
+*   **[Webcrawler & Translator](https://github.com/olaviken/webcrawler)** – Automatisert oversettelse av nettsider bygd i C#.
+*   **[Timeplanlegging](https://github.com/olaviken/timeplanlegging)** – Prototype for ressursplanlegging i utdanningssektoren (Blazor .NET).
+*   **[Areal og Utstyr](https://github.com/olaviken/areal-utstyr)** – Inventarsystem med C# og MySQL-database.
+
+---
 
 <!--
 **olaviken/olaviken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
