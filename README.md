@@ -22,7 +22,7 @@ Kontakt: LinkedIn: [Ola Viken](https://www.linkedin.com/in/ola-viken/)
 ### 💻 Systemutvikling & Verktøy
 *   **[Webcrawler & Translator](https://github.com/olaviken/WebCrawlerAndTranslator)** – Automatisert oversettelse av nettsider bygd i C#.
 *   **[Timeplanlegging](https://github.com/olaviken/Timeplanlegging)** – Prototype for ressursplanlegging i utdanningssektoren (Blazor .NET).
-*   **[Areal og Utstyr](https://github.com/olaviken/Database)** – Inventarsystem med C# og MySQL-database.
+*   **[Areal og Utstyr](https://github.com/olaviken/ArealOgUtstyr)** – Inventarsystem med C# og MySQL-database.
 
 ---
 
