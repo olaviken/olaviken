@@ -1,4 +1,4 @@
-# Ola Viken | Fullstack-utvikler med domenekunnskap innen økonomi
+# Ola Viken | Fullstack-utvikler med økonomierfaring
 Jeg kombinerer en bachelor i informatikk fra NTNU med over 8 års erfaring som regnskapsfører for å bygge tekniske løsninger som løser reelle forretningsbehov.
 Min spesialitet er å bygge bro mellom kompleks finanslogikk og moderne programvare.
 
